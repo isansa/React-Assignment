@@ -1,0 +1,44 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+* {
+  background-color: #d6d3d1;
+}
+
+ul {
+  display: flex;
+  justify-content: end;
+  margin-right: 2em;
+  list-style: none;
+  gap: 1.5em;
+}
+
+.link__main {
+  text-decoration: none;
+}
+
+button {
+  margin: 0 1rem;
+}
+
+.data__table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+table {
+  margin-top: 2rem;
+  width: 70%;
+  padding: 1rem;
+}
+
+.input__data {
+  margin: 0 1rem 1rem;
+}
+
+img {
+  width: 50%;
+}
